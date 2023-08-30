@@ -35,6 +35,9 @@
 // Note that the five elements can be returned in any order.
 // It does not matter what you leave beyond the returned k(hence they are underscores).
 
+//     Example 3:
+// Input: nums = [0, 1, 2, 2, 3, 0, 4, 2], val = 2
+// Output: 5, nums = [0, 2, 2, 4, 0, 3, _, _, _]
 
 //     Constraints:
 // 0 <= nums.length <= 100
