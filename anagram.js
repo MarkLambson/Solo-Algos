@@ -64,4 +64,4 @@ console.log(isAnagram(strA1, strB1))
 console.log(isAnagram(strA2, strB2))
 console.log(isAnagram(strA3, strB3))
 console.log(isAnagram(strA4, strB4))
-/**************************************************************************/
+/***********************************************************************/
